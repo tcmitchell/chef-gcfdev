@@ -1,8 +1,7 @@
 name             'gcfdev'
-maintainer       'The Authors'
-maintainer_email 'you@example.com'
-license          'all_rights'
-description      'Installs/Configures gcfdev'
-long_description 'Installs/Configures gcfdev'
+maintainer       'Tom Mitchell'
+maintainer_email 'tmitchell@bbn.com'
+license          'GENI Public License'
+description      'Configures for gcf development'
+long_description 'Installs dependencies of gcf for development.'
 version          '0.1.0'
-
